@@ -29,7 +29,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Properties;
 
-public class Test {
+public class Extraction {
 
     //TODO implement logging, orgUnıtId must be Name;
     public static void main(String[] args) throws IOException, ServiceException, Exception {
